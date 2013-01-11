@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="..\Classes\AppDelegate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Asteroid.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Bullet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ControlsLayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\GameLayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\ScoresLayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\Ship.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Classes\TitleLayer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Classes\AppDelegate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Asteroid.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Bullet.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ControlsLayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\GameLayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\ScoresLayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\Ship.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Classes\TitleLayer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Resources\asteroid-large.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\asteroid-medium.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\asteroid-small.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\bullet.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\CloseNormal.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\CloseSelected.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\Default.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\Icon%402x.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\Icon.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\Icon-Small%402x.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\Icon-Small.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\Icon-Small-50.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\Icon-72.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\HelloWorld.png">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="res\Asteroids.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="..\Resources\ship.png">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{d7b19dcc-efdc-4d7e-8417-862533e665c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{26cf5275-ba11-476b-969a-dc75f0cd4ff4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{afb34986-7877-47c2-b0fd-72bfe8d71de5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Asteroids.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
