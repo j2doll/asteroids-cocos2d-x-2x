@@ -11,3 +11,5 @@ class="anchor"></span>**clawoo's asteroid example for cocos2d-x 1.x**
 
 <span id="see_cocos2d-x" class="anchor"></span>**see cocos2d-x**
 [***http://www.cocos2d-x.org/***](http://www.cocos2d-x.org/)
+
+- MIT License
